@@ -14,9 +14,19 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
-    component: About
+    path: '/cats',
+    name: 'cats',
+    component: Cats
+  },
+  {
+    path: '/dogs',
+    name: 'dogs',
+    component: Dogs
+  },
+  {
+    path: '/pet',
+    name: 'pet',
+    component: Pet
   }
 ]
 
