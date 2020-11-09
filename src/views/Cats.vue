@@ -5,11 +5,13 @@
 </template>
 
 <script>
-  export default {
-    data() {
-      return {
+import cats from '@/data/cats'
 
-      }
+export default {
+  data() {
+    return {
+      cats: cats
     }
   }
+}
 </script>
