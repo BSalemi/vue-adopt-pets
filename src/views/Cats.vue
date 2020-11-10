@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-table striped hover :items="items" :fields="fields"></b-table>
+    <b-table striped hover :items="cats" :fields="fields"></b-table>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import cats from '@/data/cats'
 
 export default {
-  data() {
+  data () {
     return {
       cats: cats
     }

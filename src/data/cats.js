@@ -19,7 +19,7 @@ export default [
     color: 'orange/white',
     weight: 17,
     location: 'threed',
-    notes: 'Super friendly'
+    notes: 'Lazy boy'
   },
   {
     name: 'Roger',
@@ -30,7 +30,7 @@ export default [
     color: 'gray',
     weight: 15,
     location: 'threed',
-    notes: 'Super friendly'
+    notes: 'Fickle'
   },
   {
     name: 'Kitkat',
@@ -41,6 +41,6 @@ export default [
     color: 'black',
     weight: 9,
     location: 'threed',
-    notes: 'Super friendly'
+    notes: 'Very cuddly'
   }
 ]

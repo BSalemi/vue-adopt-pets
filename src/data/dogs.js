@@ -10,14 +10,14 @@ export default [
     notes: 'Pure breed. Trained for competitions.'
   },
   {
-    name: 'Hillary',
+    name: 'Pepper',
     breed: 'mut',
     gender: 'female',
     age: 17,
     color: 'orange/white',
     weight: 37,
     location: 'threed',
-    notes: 'Super friendly'
+    notes: 'High energy'
   },
   {
     name: 'Zeus',
@@ -37,6 +37,6 @@ export default [
     color: 'black',
     weight: 44,
     location: 'threed',
-    notes: 'Super friendly'
+    notes: 'Loves to play'
   }
 ]
